@@ -77,7 +77,7 @@ Streamlit provides rapid development of a professional UI with minimal overhead,
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/<your-username>/internal-ai-assistant.git
+git clone https://github.com/SaiBhavyaYangoti/internal-ai-assistant.git
 cd internal-ai-assistant
 ```
 

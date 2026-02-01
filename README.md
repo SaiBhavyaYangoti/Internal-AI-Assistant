@@ -88,28 +88,15 @@ pip install -r requirements.txt
 
 ### 3. Configure Groq API Key
 
-Create a `.env` file (local only):
+Create a `.env` file:
 ```bash
 GROQ_API_KEY=your_key_here
 ```
-
-Or configure securely in Streamlit Secrets during deployment.
 
 ### 4. Run App
 ```bash
 streamlit run app.py
 ```
-
-## Deployment (Streamlit Cloud)
-
-1. Push code to GitHub
-2. Deploy via Streamlit Cloud dashboard
-3. Add secrets in settings:
-```
-GROQ_API_KEY="gsk-xxxxx"
-```
-
-4. Set main file: `app.py`
 
 ## Example Queries
 

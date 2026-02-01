@@ -1,4 +1,5 @@
 streamlit
-ddgs
+streamlit-antd-components
 requests
+duckduckgo-search
 python-dotenv
